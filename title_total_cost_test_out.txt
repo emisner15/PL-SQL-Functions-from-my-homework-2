@@ -1,0 +1,36 @@
+test passes if it shows that ISBN 0871507870 has
+a total cost of 1137.5:
+==========================================================
+
+PL/SQL procedure successfully completed.
+
+
+   TT_COST                                                                      
+----------                                                                      
+    1137.5                                                                      
+
+
+test passes if it shows that ISBN 087150331X has
+a total cost of 79.5
+=====================================================
+
+PL/SQL procedure successfully completed.
+
+
+   TT_COST                                                                      
+----------                                                                      
+      79.5                                                                      
+
+
+test passes if it shows that non-existent ISBN
+1313131313 has a total cost of -1
+=====================================================
+
+PL/SQL procedure successfully completed.
+
+
+   TT_COST                                                                      
+----------                                                                      
+        -1                                                                      
+
+

@@ -1,0 +1,33 @@
+test passes if it shows 3 "shouts" of HOWDY!:
+==========================================================
+HOWDY!                                                                          
+HOWDY!                                                                          
+HOWDY!                                                                          
+
+PL/SQL procedure successfully completed.
+
+
+test passes if it shows 5 "shouts" of CS 328 - RAH RAH RAH!!
+=============================================================
+CS 328 - RAH RAH RAH!!                                                          
+CS 328 - RAH RAH RAH!!                                                          
+CS 328 - RAH RAH RAH!!                                                          
+CS 328 - RAH RAH RAH!!                                                          
+CS 328 - RAH RAH RAH!!                                                          
+
+PL/SQL procedure successfully completed.
+
+
+test passes if it complains that it cannot "shout" hi 0 times:
+==========================================================
+Cannot print hi 0 times                                                         
+
+PL/SQL procedure successfully completed.
+
+
+test passes if it complains that it cannot "shout" moo -1 times:
+==========================================================
+Cannot print moo -1 times                                                       
+
+PL/SQL procedure successfully completed.
+

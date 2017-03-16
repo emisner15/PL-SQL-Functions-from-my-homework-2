@@ -1,0 +1,36 @@
+
+Commit complete.
+
+insert into title
+*
+ERROR at line 1:
+ORA-02290: check constraint (EM1909.SYS_C001001038) violated 
+
+
+
+PL/SQL procedure successfully completed.
+
+
+HOW_MUCH                                                                        
+--------------------------------------------------------------------------------
+10                                                                              
+
+
+PL/SQL procedure successfully completed.
+
+
+HOW_MUCH                                                                        
+--------------------------------------------------------------------------------
+75                                                                              
+
+
+PL/SQL procedure successfully completed.
+
+
+HOW_MUCH                                                                        
+--------------------------------------------------------------------------------
+0                                                                               
+
+
+Rollback complete.
+

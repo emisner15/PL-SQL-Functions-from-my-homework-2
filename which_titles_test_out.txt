@@ -1,0 +1,31 @@
+testing JUST for titles with <= 10 copies on hand AND
+whose price is <= $40
+(   test passes if 7 titles, quantities, and prices are shown;)
+(   see Homework 2 handout for exact expected values):
+==========================================================
+BASIC: A Structured Approach-5-$29.95                                           
+Operating Systems: A Systems Approa-5-$35.95                                    
+An Introduction to Database Systems-10-$37.95                                   
+Financial Accounting-10-$31.5                                                   
+Software Engineering-10-$40                                                     
+The C Programming Language-10-$39.95                                            
+
+PL/SQL procedure successfully completed.
+
+testing JUST for titles with <= 9 copies on hand AND
+whose price is <= $35
+(   test passes if 2 titles, quantities, and prices are shown):
+==========================================================
+BASIC: A Structured Approach-5-$29.95                                           
+
+PL/SQL procedure successfully completed.
+
+
+testing JUST for titles with <= 2 copies on hand AND
+whose price is <= $1
+(   as you can see in the previous results, there should)
+(   be NO such titles found):
+==========================================================
+
+PL/SQL procedure successfully completed.
+

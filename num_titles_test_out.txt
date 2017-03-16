@@ -1,0 +1,52 @@
+
+*********************************
+TESTING num_titles
+*********************************
+
+test passes if it shows, for Prentice Hall, a number of
+titles of 3:
+==========================================================
+
+PL/SQL procedure successfully completed.
+
+
+RESULT_QUANT                                                                    
+------------                                                                    
+           3                                                                    
+
+
+test passes if it shows, for Addison-Wesley, a number of
+titles of 4:
+==========================================================
+
+PL/SQL procedure successfully completed.
+
+
+RESULT_QUANT                                                                    
+------------                                                                    
+           4                                                                    
+
+
+test passes if it shows, for Merrill, a number of
+titles of 0:
+==========================================================
+
+PL/SQL procedure successfully completed.
+
+
+RESULT_QUANT                                                                    
+------------                                                                    
+           0                                                                    
+
+
+test passes if it shows, for nonexistent, a number of
+titles of 0:
+==========================================================
+
+PL/SQL procedure successfully completed.
+
+
+RESULT_QUANT                                                                    
+------------                                                                    
+           0                                                                    
+
